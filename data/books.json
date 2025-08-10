@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e23b5c6b-a4a2-4e63-9c2e-56c25246f242",
+    "title": "Shadows of Truth",
+    "author": "Nina Moore",
+    "category": "history",
+    "description": "An eye-opening dive into concealed narratives of the past.",
+    "rating": 4.3
+  },
+  {
+    "id": "9be32de6-0c34-4973-951b-4f0b9948c4eb",
+    "title": "Moral Compass",
+    "author": "Jared Ellis",
+    "category": "ethics",
+    "description": "A compelling journey through the gray areas of human decisions.",
+    "rating": 4.6
+  },
+  {
+    "id": "2c4f52d0-1c8a-4a71-a530-0de3a8405c16",
+    "title": "The Greater Good",
+    "author": "Leah Winters",
+    "category": "mathematics",
+    "description": "Mathematical puzzles that challenge logic and conscience.",
+    "rating": 3.9
+  },
+  {
+    "id": "57308bba-44ef-47c9-a0a7-4e7e8f5c4421",
+    "title": "Gray Decisions",
+    "author": "Omar Lane",
+    "category": "science",
+    "description": "Scientific dilemmas faced in modern research ethics.",
+    "rating": 4.1
+  },
+  {
+    "id": "15c5c0c3-0571-46c8-aec7-96a5baf22970",
+    "title": "Right or Wrong",
+    "author": "Nina Moore",
+    "category": "mathematics",
+    "description": "An unusual take on moral logic through mathematical frameworks.",
+    "rating": 3.8
+  },
+  {
+    "id": "3f3f91c1-889e-406d-b3df-cbe9f7f10799",
+    "title": "Virtue and Vice",
+    "author": "Daniel Cho",
+    "category": "ethics",
+    "description": "An exploration of human behavior and ethical dualities.",
+    "rating": 4.7
+  },
+  {
+    "id": "b1924b0e-c82c-4cb7-9230-1cf556057cc5",
+    "title": "Beyond Duty",
+    "author": "Harper Wells",
+    "category": "biology",
+    "description": "A look at the moral choices behind biological experiments.",
+    "rating": 4.2
+  },
+  {
+    "id": "6419cf69-b395-4c27-8c9b-4b15ae42619a",
+    "title": "Minds of Morality",
+    "author": "Felix Rivera",
+    "category": "science",
+    "description": "Examines the cognitive science behind moral reasoning.",
+    "rating": 5
+  },
+  {
+    "id": "c7a66c1a-840c-44a1-87b3-02ea944370ef",
+    "title": "Justice in Shadows",
+    "author": "Sophie Lin",
+    "category": "sociology",
+    "description": "Sociological study of justice systems across cultures.",
+    "rating": 4.0
+  }
+]
