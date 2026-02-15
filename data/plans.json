@@ -1,0 +1,33 @@
+[
+  {
+    "id": "p-001",
+    "name": "Cena de Tapas",
+    "category": "Gastronomía",
+    "people_involved": "Elena y Marcos",
+    "date": "2026-02-25",
+    "location_id": "c9d8b7a6-mercado-san-miguel",
+    "items": [
+      {"name": "Reserva de mesa", "bought": true},
+      {"name": "Vino tinto", "bought": false}
+    ],
+    "budget": 50.0,
+    "status": "Confirmed",
+    "additional_details": "Quedar en la puerta principal"
+  },
+  {
+    "id": "p-002",
+    "name": "Ruta de Senderismo",
+    "category": "Deporte",
+    "people_involved": "Club de Montaña",
+    "date": "2026-03-12",
+    "location_id": "m5-sierra-guadarrama",
+    "items": [
+      {"name": "Botiquín", "bought": true},
+      {"name": "Mapa físico", "bought": false},
+      {"name": "Barritas energéticas", "bought": true}
+    ],
+    "budget": 15.0,
+    "status": "Pending",
+    "additional_details": "Llevar calzado impermeable"
+  }
+]
