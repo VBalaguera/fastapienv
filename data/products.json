@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p1o2i3u4-y5t6-r7e8-w9q0-l1k2j3h4g5f6",
+    "name": "Aceite de Oliva Virgen Extra",
+    "brand": "Carbonell",
+    "price": 12.50,
+    "stock": 50,
+    "category": "Alimentación",
+    "weight": "500 ml",
+    "additional_notes": "Cold-pressed, premium quality"
+  },
+  {
+    "id": "x9y8z7w6-v5u4-t3s2-r1q0-p9o8n7m6l5k4",
+    "name": "Jamón Ibérico de Bellota",
+    "brand": "5Jotas",
+    "price": 85.00,
+    "stock": 15,
+    "category": "Gourmet",
+    "weight": "7 kg",
+    "additional_notes": "Acorn-fed Iberian ham"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+    "name": "Zapatillas de Correr",
+    "brand": "Joma",
+    "price": 59.99,
+    "stock": 120,
+    "category": "Deportes",
+    "weight": "300 grams",
+    "additional_notes": "Breathable mesh, suitable for marathon training"
+  }
+]

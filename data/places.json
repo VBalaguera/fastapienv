@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7a3b2c1d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+    "name": "Parque del Retiro",
+    "address": "Plaza de la Independencia, 7",
+    "city": "Madrid",
+    "latitude": 40.4153,
+    "longitude": -3.6839,
+    "rating": 4.9,
+    "phone": "+34 915 32 00 00",
+    "email": "info@retiropark.es",
+    "website": "https://www.esmadrid.com/retirro-park",
+    "category": "Park"
+  },
+  {
+    "id": "b1c2d3e4-f5g6-h7i8-j9k0-l1m2n3o4p5q6",
+    "name": "Museo del Prado",
+    "address": "Calle de Ruiz de Alarcón, 23",
+    "city": "Madrid",
+    "latitude": 40.4138,
+    "longitude": -3.6921,
+    "rating": 4.8,
+    "phone": "+34 915 28 28 40",
+    "email": "info@museodelprado.es",
+    "website": "https://www.museodelprado.es",
+    "category": "Museum"
+  },
+  {
+    "id": "c9d8b7a6-e5f4-g3h2-i1j0-k9l8m7n6o5p4",
+    "name": "Mercado de San Miguel",
+    "address": "Plaza de San Miguel, s/n",
+    "city": "Madrid",
+    "latitude": 40.4155,
+    "longitude": -3.7090,
+    "rating": 4.5,
+    "phone": "+34 915 42 12 30",
+    "email": "contact@mercadodesanmiguel.es",
+    "website": "https://www.mercadodesanmiguel.es",
+    "category": "Market"
+  }
+]
