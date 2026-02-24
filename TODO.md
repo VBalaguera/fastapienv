@@ -1,6 +1,6 @@
 # TODO
 
-
+Keep studying.
 
 # DONE 
 
