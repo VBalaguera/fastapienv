@@ -37,6 +37,8 @@ app.include_router(products_router)
 app.include_router(plans_router)
 app.include_router(on_this_day_router)
 
+
+
 # Future Firebase-protected routers go here, same pattern:
 # from app.routers import items
 # app.include_router(items.router)
