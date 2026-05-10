@@ -13,7 +13,7 @@ async def lifespan(app: FastAPI):
     init_firebase()        # Firebase starts up once, cleanly
     yield
 
-app = FastAPI(title="Satellite API", lifespan=lifespan)
+app = FastAPI(title="Satellite API", lifespan=lifespan, redirect_slashes=False)
 
 app.add_middleware(
     CORSMiddleware,
