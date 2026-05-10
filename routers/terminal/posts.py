@@ -22,20 +22,6 @@ def get_posts(lang: str = "en"):
         })
     return posts
 
-@router.get("/debug/all")
-def debug_posts(lang: str = "en"):
-    docs = db().collection("posts").stream()
-    results = []
-    for d in docs:
-        data = d.to_dict()
-        results.append({
-            "id": d.id,
-            "raw": data
-        })
-    return results
-
-
-
 @router.get("/{slug}")
 def get_post(slug: str, lang: str = "en"):
     print(f">>> HIT: slug='{slug}' lang='{lang}'")
